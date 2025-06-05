@@ -1,0 +1,10 @@
+{
+    "name": "xixi",
+    "age": 20,
+    "favoriate": "xingxing",
+    "tel": [
+        10,
+        20
+    ],
+    "beaty": true
+}
